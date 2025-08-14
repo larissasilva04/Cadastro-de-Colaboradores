@@ -1,5 +1,4 @@
 Sistema de Colaboradores Flugo
-http://localhost:3000/
 
 Uma aplicação React com TypeScript que replica as 3 telas do sistema de colaboradores da Flugo, incluindo listagem de colaboradores e fluxo de cadastro em múltiplas etapas.
 🚀 Tecnologias Utilizadas
