@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cadastro-de-Colaboradores/static/css/main.b6af1634.css",
+    "main.js": "/Cadastro-de-Colaboradores/static/js/main.68dbd2fa.js",
+    "index.html": "/Cadastro-de-Colaboradores/index.html",
+    "main.b6af1634.css.map": "/Cadastro-de-Colaboradores/static/css/main.b6af1634.css.map",
+    "main.68dbd2fa.js.map": "/Cadastro-de-Colaboradores/static/js/main.68dbd2fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6af1634.css",
+    "static/js/main.68dbd2fa.js"
+  ]
+}
