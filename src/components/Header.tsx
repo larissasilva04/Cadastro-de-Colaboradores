@@ -6,11 +6,7 @@ const Header: React.FC = () => {
       <div className="flex items-center justify-between">
         <div className="flex items-center space-x-3">
           <div className="w-8 h-8 bg-flugo-green rounded-lg flex items-center justify-center">
-            <img
-              src="/logo.jpeg"
-              alt="Logo"
-              className="w-8 h-8 object-cover rounded-lg"
-            />
+            <img src={process.env.PUBLIC_URL + '/logo.jpeg'} alt="Logo" />
           </div>
           <span className="text-xl font-Poppins-semibold text-gray-900">Flugo</span>
         </div>
